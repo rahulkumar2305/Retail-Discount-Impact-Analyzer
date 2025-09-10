@@ -1,0 +1,51 @@
+Product,Price,Discount,Pre_Discount_Quantity,Post_Discount_Quantity
+Shampoo Regular 1,200,20,150,210
+Soap Extra 2,50,10,300,280
+Conditioner Pro 3,350,15,80,120
+Lotion Max 4,180,25,200,320
+Toothpaste Lite 5,120,0,150,145
+Deodorant Regular 6,250,30,90,180
+Face Cream Extra 7,420,10,60,75
+Sunscreen Pro 8,280,40,40,85
+Makeup Max 9,380,15,70,95
+Perfume Lite 10,450,5,30,35
+Shampoo Extra 11,220,25,130,210
+Soap Pro 12,55,15,280,320
+Conditioner Max 13,370,0,75,70
+Lotion Lite 14,160,30,180,250
+Toothpaste Regular 15,125,20,140,190
+Deodorant Extra 16,260,10,85,90
+Face Cream Pro 17,440,35,55,95
+Sunscreen Max 18,300,5,45,43
+Makeup Lite 19,360,25,65,100
+Perfume Regular 20,480,15,25,35
+Shampoo Pro 21,240,10,120,135
+Soap Max 22,60,40,250,400
+Conditioner Lite 23,330,20,70,95
+Lotion Regular 24,170,0,190,185
+Toothpaste Extra 25,130,30,135,210
+Deodorant Pro 26,270,5,80,78
+Face Cream Max 27,460,25,50,80
+Sunscreen Lite 28,290,15,42,55
+Makeup Regular 29,400,10,60,65
+Perfume Extra 30,500,35,20,38
+Shampoo Max 31,210,5,140,145
+Soap Lite 32,65,20,270,320
+Conditioner Regular 33,340,30,65,95
+Lotion Extra 34,190,10,175,185
+Toothpaste Pro 35,140,40,125,220
+Deodorant Max 36,280,0,75,72
+Face Cream Lite 37,430,15,45,60
+Sunscreen Regular 38,310,25,38,60
+Makeup Extra 39,390,5,55,53
+Perfume Pro 40,470,20,22,35
+Shampoo Lite 41,230,35,110,180
+Soap Regular 42,70,0,260,255
+Conditioner Extra 43,320,10,68,70
+Lotion Pro 44,200,30,165,240
+Toothpaste Max 45,150,15,130,155
+Deodorant Lite 46,290,25,70,95
+Face Cream Regular 47,410,40,40,75
+Sunscreen Extra 48,330,5,35,33
+Makeup Pro 49,370,20,50,70
+Perfume Max 50,490,10,18,20
